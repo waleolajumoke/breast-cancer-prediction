@@ -1,2 +1,5 @@
-sklearn
-numpy
+sklearn==0.23.1
+numpy==1.18.4
+scipy==1.4.1
+
+
